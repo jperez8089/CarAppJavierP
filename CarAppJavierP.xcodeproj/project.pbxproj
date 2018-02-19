@@ -12,6 +12,17 @@
 		BA3DD9CD2036D1B500695842 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9CB2036D1B500695842 /* Main.storyboard */; };
 		BA3DD9CF2036D1B500695842 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9CE2036D1B500695842 /* Assets.xcassets */; };
 		BA3DD9D22036D1B500695842 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9D02036D1B500695842 /* LaunchScreen.storyboard */; };
+		BA3DD9DA20382BD400695842 /* yellowcar.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9D920382BD400695842 /* yellowcar.png */; };
+		BA3DD9DC2038385800695842 /* redcar.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9DB2038385800695842 /* redcar.png */; };
+		BA3DD9E020383D0E00695842 /* whitecar.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9DD20383D0D00695842 /* whitecar.png */; };
+		BA3DD9E120383D0E00695842 /* blackcar.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9DE20383D0E00695842 /* blackcar.png */; };
+		BA3DD9E220383D0E00695842 /* bluecar.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9DF20383D0E00695842 /* bluecar.png */; };
+		BA3DD9E42038484500695842 /* seat1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9E32038484500695842 /* seat1.jpg */; };
+		BA3DD9E620384C6800695842 /* seat2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9E520384C6800695842 /* seat2.jpg */; };
+		BA3DD9E92038BA8600695842 /* tires1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9E72038BA8500695842 /* tires1.jpg */; };
+		BA3DD9EA2038BA8600695842 /* tires2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9E82038BA8500695842 /* tires2.jpg */; };
+		BA3DD9ED2038E3B800695842 /* nospoiler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9EB2038E3B700695842 /* nospoiler.jpg */; };
+		BA3DD9EE2038E3B800695842 /* spoiler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA3DD9EC2038E3B800695842 /* spoiler.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		BA3DD9CE2036D1B500695842 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA3DD9D12036D1B500695842 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA3DD9D32036D1B500695842 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA3DD9D920382BD400695842 /* yellowcar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellowcar.png; sourceTree = "<group>"; };
+		BA3DD9DB2038385800695842 /* redcar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redcar.png; sourceTree = "<group>"; };
+		BA3DD9DD20383D0D00695842 /* whitecar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitecar.png; sourceTree = "<group>"; };
+		BA3DD9DE20383D0E00695842 /* blackcar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackcar.png; sourceTree = "<group>"; };
+		BA3DD9DF20383D0E00695842 /* bluecar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluecar.png; sourceTree = "<group>"; };
+		BA3DD9E32038484500695842 /* seat1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seat1.jpg; sourceTree = "<group>"; };
+		BA3DD9E520384C6800695842 /* seat2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seat2.jpg; sourceTree = "<group>"; };
+		BA3DD9E72038BA8500695842 /* tires1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tires1.jpg; sourceTree = "<group>"; };
+		BA3DD9E82038BA8500695842 /* tires2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tires2.jpg; sourceTree = "<group>"; };
+		BA3DD9EB2038E3B700695842 /* nospoiler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nospoiler.jpg; sourceTree = "<group>"; };
+		BA3DD9EC2038E3B800695842 /* spoiler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spoiler.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +82,17 @@
 				BA3DD9CE2036D1B500695842 /* Assets.xcassets */,
 				BA3DD9D02036D1B500695842 /* LaunchScreen.storyboard */,
 				BA3DD9D32036D1B500695842 /* Info.plist */,
+				BA3DD9D920382BD400695842 /* yellowcar.png */,
+				BA3DD9DB2038385800695842 /* redcar.png */,
+				BA3DD9DE20383D0E00695842 /* blackcar.png */,
+				BA3DD9DF20383D0E00695842 /* bluecar.png */,
+				BA3DD9DD20383D0D00695842 /* whitecar.png */,
+				BA3DD9E32038484500695842 /* seat1.jpg */,
+				BA3DD9E520384C6800695842 /* seat2.jpg */,
+				BA3DD9E72038BA8500695842 /* tires1.jpg */,
+				BA3DD9E82038BA8500695842 /* tires2.jpg */,
+				BA3DD9EB2038E3B700695842 /* nospoiler.jpg */,
+				BA3DD9EC2038E3B800695842 /* spoiler.jpg */,
 			);
 			path = CarAppJavierP;
 			sourceTree = "<group>";
@@ -123,9 +156,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA3DD9DC2038385800695842 /* redcar.png in Resources */,
+				BA3DD9E42038484500695842 /* seat1.jpg in Resources */,
+				BA3DD9EE2038E3B800695842 /* spoiler.jpg in Resources */,
+				BA3DD9E120383D0E00695842 /* blackcar.png in Resources */,
 				BA3DD9D22036D1B500695842 /* LaunchScreen.storyboard in Resources */,
+				BA3DD9E92038BA8600695842 /* tires1.jpg in Resources */,
+				BA3DD9E020383D0E00695842 /* whitecar.png in Resources */,
+				BA3DD9E220383D0E00695842 /* bluecar.png in Resources */,
 				BA3DD9CF2036D1B500695842 /* Assets.xcassets in Resources */,
+				BA3DD9DA20382BD400695842 /* yellowcar.png in Resources */,
 				BA3DD9CD2036D1B500695842 /* Main.storyboard in Resources */,
+				BA3DD9ED2038E3B800695842 /* nospoiler.jpg in Resources */,
+				BA3DD9EA2038BA8600695842 /* tires2.jpg in Resources */,
+				BA3DD9E620384C6800695842 /* seat2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
